@@ -1,0 +1,15 @@
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\bin\Debug\net6.0\Variables.exe
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\bin\Debug\net6.0\Variables.deps.json
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\bin\Debug\net6.0\Variables.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\bin\Debug\net6.0\Variables.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\obj\Debug\net6.0\Variables.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\obj\Debug\net6.0\refint\Variables.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\obj\Debug\net6.0\Variables.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\variables\Variables\Variables\obj\Debug\net6.0\ref\Variables.dll
